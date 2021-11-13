@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=
+comment1.target=void\ main()
+comment2.params=row\ col\ board\ player
+comment2.target=void\ tictacToBoardConveter(int,\ int,\ java.lang.String[][],\ int)
+comment3.params=tictac
+comment3.target=boolean\ checkDraw(int[][])
+comment4.params=tictac\ player
+comment4.target=boolean\ checkWinner(int[][],\ int)
+comment5.params=
+comment5.target=int[]\ acceptInput()
+comment6.params=board
+comment6.target=void\ print(java.lang.String[][])
+comment7.params=
+comment7.target=java.lang.String[][]\ getBoard()
+numComments=8
